@@ -1,1 +1,1 @@
-# Example-Code
+# Example-Code Payment methods
